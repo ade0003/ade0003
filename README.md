@@ -1,7 +1,7 @@
 <h1 align="center">Hi! I'm Goodness</h1>
 <h3 align="center">A passionate full-stack developer from Ottawa</h3>
 
-- 🌱 I’m currently learning **React, Next.js and Tailwind**
+- 🌱 I’m currently learning **Swift, Kotlin and Flutter**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ade0003](https://github.com/ade0003)
 
