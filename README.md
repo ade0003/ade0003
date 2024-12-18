@@ -1,5 +1,5 @@
 <h1 align="center">Hi! I'm Goodness</h1>
-<h3 align="center">A passionate full-stack developer from Ottawa</h3>
+<h3 align="center">A passionate full-stack developer in Ottawa</h3>
 
 - 🌱 I’m currently learning **Swift, Kotlin and Flutter**
 
