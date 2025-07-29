@@ -1,9 +1,7 @@
 <h1 align="center">Hi! I'm Goodness</h1>
-<h3 align="center">A passionate full-stack developer in Ottawa</h3>
+<h3 align="center">A software developer&designer in Ottawa</h3>
 
-- 🌱 I’m currently learning **Swift, Kotlin and Flutter**
-
-- 👨‍💻 All of my projects are available at [https://github.com/ade0003](https://github.com/ade0003)
+- 🌱 I’m currently learning **C & C++**
 
 - 📫 How to reach me **adeg492@gmail.com**
 
