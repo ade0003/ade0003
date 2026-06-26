@@ -1,7 +1,7 @@
 <h1 align="center">Hi! I'm Goodness</h1>
 <h3 align="center">A software developer&designer in Ottawa</h3>
 
-- 🌱 I’m currently learning **C & C++**
+- 🌱 I’m currently learning **C# .NET & Typescript**
 
 - 📫 How to reach me **adeg492@gmail.com**
 
